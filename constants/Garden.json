@@ -1590,8 +1590,11 @@
     },
     "Marco": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Moonflower",
+        "Sunflower",
+        "Wild Rose"
+      ],
       "mode": "hub",
       "position": "-10:71:-14",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1MDAwMDQ3OTM5MjMsInByb2ZpbGVJZCI6IjkzYzdmMmUxMTg2MzQ5NzU4OGE2ZWI0YzUwYjRhZGZiIiwicHJvZmlsZU5hbWUiOiJUYWN0ZnVsIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OTQ1ZDA2NDM4ZjdmZmYyOTFjY2QxNWIxNTZlM2ZiODcyYmMyNWNkOGUyMmE1Zjc2NWM3MDNlYjMzOWY4In19fQ=="
@@ -1662,7 +1665,6 @@
     "Old Shaman Nyko": {
       "rarity": "uncommon",
       "need_items": [],
-      "unknown_rewards": true,
       "mode": "foraging_1",
       "position": "-371:84:65",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzMwODI0NjQ3MTYsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YTUxNzg2NWI4MjBhNDQ1MWNkM2NjNjc2NWYzNzBmZDA1MjJiNjQ4OWM5Yzk0ZmIzNDVmZGVlMjY4OTQ1MWEifX19"
