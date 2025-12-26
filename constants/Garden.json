@@ -1471,8 +1471,9 @@
     },
     "Cold Enjoyer": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Cactus"
+      ],
       "mode": "mining_3",
       "position": "-16:137:217",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMjg1MzIyMjMzNiwKICAicHJvZmlsZUlkIiA6ICI2YzdjZWFjNTdjM2Q0ZTdmYWI3MTc3YTRkMDhlMGU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNRzE0MSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOGEyZmIwNmQ0Nzc3NjA2Njk0NDg3ZjViNmYyOTA3NmZmNmMwOWNmNDUxOTFiOWIxNjY5NmNkOTk2MWE4ODc2IgogICAgfQogIH0KfQ=="
@@ -1484,8 +1485,9 @@
     },
     "Dulin": {
       "rarity": "legendary",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Potato"
+      ],
       "mode": "mining_3",
       "position": "15:128:206",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDE3ODQ4MzAzMywKICAicHJvZmlsZUlkIiA6ICI5ZTA5YzM4ZGUzZTY0MDA2OTAwYzAwZTJiOTQ3ZTQwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4RFRPTUFTX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3NGMxMjRhMmQ1NDM1OWMyZmRkMDg2Mjk4ODcwNjYwODkzNWU2MGVmNzQ1ODg2N2E5MGJlMDEyMjM3ZjVkZjgiCiAgICB9CiAgfQp9"
@@ -1755,8 +1757,9 @@
     },
     "Trinity": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Sugar Cane"
+      ],
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODQ3MjcxODMzMjgsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ODQxYTE2YTViZDRhNjQ2Y2VkYjRiNTQzNzcyMzIyNmM3Y2Y5Zjg2NjllNTU4NzczZmFlMGE5NDUyYzk0ZDkwIn19fQ=="
     },
     "Tyashoi Alchemist": {
