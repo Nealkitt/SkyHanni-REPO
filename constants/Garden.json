@@ -1603,8 +1603,9 @@
     },
     "Marigold": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Melon Slice"
+      ],
       "mode": "mining_3",
       "position": "181:150:60",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NTkzMzUxMDg2NCwKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2NiMDU5NzU4MmY1YTZjMmY0NDVkOGRhNjk3MWIzZjNlOGJiZDljYzI5NjhmZDYzMDc1ZDM0YWJiMDJjMWNiMyIKICAgIH0KICB9Cn0="
